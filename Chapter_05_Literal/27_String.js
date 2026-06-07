@@ -11,3 +11,5 @@ let c1 = 'cc'; // This is a string literal assigned to the variable 'c1' using d
 console.log(typeof c); // Output: string
 console.log(typeof c1); // Output: string
 console.log(typeof double); // Output: string
+
+//Javascript prefers to use single quotes

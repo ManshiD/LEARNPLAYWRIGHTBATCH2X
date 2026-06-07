@@ -11,3 +11,4 @@ console.log(statuses.at(-4)); // Output: undefined (index out of bounds)
 //Modify
 statuses[1] = "blocked"; // This modifies the second element of the 'statuses' array from "fail" to "blocked"
 console.log(statuses); // Output: ["pass", "blocked", "skip"]
+
