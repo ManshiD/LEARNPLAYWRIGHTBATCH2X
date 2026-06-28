@@ -36,3 +36,4 @@ console.log(rr); // "test login pass"
 let parts = ["2024", "03", "07"];
 let date = parts.join("-"); // "2024-03-07" - joins the elements of the array into a single string with the specified separator
 console.log(date); // "2024-03-07"
+
